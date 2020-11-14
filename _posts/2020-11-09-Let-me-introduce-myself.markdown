@@ -4,26 +4,36 @@ title:  "Let me introduce myself"
 date:   2020-11-09 12:31:51 +0000
 categories: personal
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+### Introduction
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Hi everyone!,
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I don't know how to do this without repeating what I wrote on the [about][about.markdown] section, but anyway, I need to start somewhere.
 
-Jekyll also offers powerful support for code snippets:
+**So... here we go!! :D**
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Hi!, my name is Sergio, I'm 28 years old and, currently, I'm a Quality Assurance Engineer working for Amazon in Dublin.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+To give you a little bit of a bullet-point, quick, **background story**: I...
+ - was born in Madrid, Spain
+ - grew up and lived there until 2018
+ - loved technology from a very young age, one of my highlights being putting cookies inside the VHS player because, well, I wanted to watch some cookie shows (?).
+ - learned music too!, inspired from my father and his family (most of them are musicians or are related to music somehow), I ended up getting a profesional degree in clarinet. Although I must confess I don't play it that much anymore.
+ - studied a double degree of Computer Science and Software Science
+ - worked 3 years as an Automation Engineer in a mid-size company in Madrid
+ - applied for a QAE position for Alexa International in Amazon Dublin
+ - the interview went well apparently
+ - and here I am 3 years later!
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+I see this blog as an opportunity for me to broaden my future, grow as an engineer, and more importantly, share it with any person that may be taking a similar path.  
+
+But what path? why are you writing a blog now?
+
+I'll give better, longer explanations soon, but, to give a quick answer: In this blog I will describe the steps I take, the projects I make, the things I learn in my path moving from a QAE position to a SW Engineer position.
+
+I hope to see you around :)
+
+S.
+
+[about.markdown]: ../../../../about
